@@ -30,11 +30,10 @@ body{
 }
 #ytb{
   width: 760;
-  height: 650;
+  height: 200;
   border: 2px solid purple;
   margin: 50px auto;
-  display: flex;
-  justify-content: center;
+  
 }
 #tb{
   width:500;
