@@ -28,16 +28,17 @@ body{
   display: flex;
   justify-content: center;
 }
-/*ytb*/
-/*{
+ytb{
   width: 760;
   height: 200;
   border: 2px solid purple;
   margin: 50px auto;
+  bottom:2px;
+  justify-content: center;
   
-}*/
-/* tb */
-/*{
+}
+
+*tb{
   width:400;
   height: 200;
   margin:1px auto;
@@ -45,4 +46,4 @@ body{
   padding: 1px;
   background: white;
 }
-*/
+
