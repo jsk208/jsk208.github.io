@@ -6,12 +6,12 @@ body{
   
 }
 .box{
-  width: 250px;
-  height: 200px;
+  width: 450px;
+  height: 300px;
   background: white;
   color: white;
   border: 4px solid #410073;
-  padding: 10px;
+  padding: 1px;
   margin:50px auto;
   
   display: flex;
@@ -19,7 +19,7 @@ body{
   align-items: center; 
 }
 .bt{
-  font-size: 100px;
+  color: #531763;
 }
 #other{
   width: 200px;
