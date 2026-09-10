@@ -29,15 +29,15 @@ body{
   justify-content: center;
 }
 #ytb{
-  width: 550;
-  height: 600;
+  width: 760;
+  height: 650;
   border: 2px solid purple;
   margin: 50px auto;
   display: flex;
   justify-content: cemter;
 }
 #tb{
-  width:500;
+  width:700;
   height: 200;
   margin:1px auto;
   border: 1px black;
