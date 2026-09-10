@@ -13,6 +13,10 @@ body{
   border: 4px solid #410073;
   padding: 100px;
   margin:500px ;
+  
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
 }
 .bt{
   font-size: 100px;
@@ -21,4 +25,7 @@ body{
   width: 200px;
   height: 100px;
   margin: 500px;
+   display: flex;
+    justify-content: right;
+    align-items: center;
 }
