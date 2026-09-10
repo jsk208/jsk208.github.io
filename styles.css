@@ -5,3 +5,12 @@ body{
   color: green;
   
 }
+.box{
+  width: 1000px;
+  height:  1000px;
+  color: white;
+  border: 4px solid green;
+  padding: 10px;
+  margin:5px;
+}
+
