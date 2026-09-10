@@ -1,6 +1,6 @@
 body{
   background: black;
-  display: flex;
+  
 }
 .t{
   color: green;
@@ -29,15 +29,15 @@ body{
   justify-content: center;
 }
 /*ytb*/
-{
+/*{
   width: 760;
   height: 200;
   border: 2px solid purple;
   margin: 50px auto;
   
-}
+}*/
 /* tb */
-{
+/*{
   width:400;
   height: 200;
   margin:1px auto;
@@ -45,3 +45,4 @@ body{
   padding: 1px;
   background: white;
 }
+*/
