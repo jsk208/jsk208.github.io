@@ -6,12 +6,12 @@ body{
   
 }
 .box{
-  width: 200px;
+  width: 250px;
   height: 200px;
   background: white;
   color: white;
   border: 4px solid #410073;
-  padding: 100px;
+  padding: 10px;
   margin:50px auto;
   
   display: flex;
