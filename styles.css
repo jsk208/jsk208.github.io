@@ -35,6 +35,7 @@ body{
   margin: 50px auto;
   bottom:2px;
   justify-content: center;
+  align-items: flex-end;
   
 }
 
