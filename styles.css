@@ -33,7 +33,7 @@ body{
   border: 2px solid purple;
   margin: 50px auto;
   display: flex;
-  justify-content: cemter;
+  justify-content: center;
 }
 #tb{
   width:700;
@@ -43,6 +43,6 @@ body{
   padding: 1px;
   background: white;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
