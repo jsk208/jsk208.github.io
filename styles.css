@@ -1,5 +1,6 @@
 body{
   background: black;
+  display: flex;
 }
 .t{
   color: green;
@@ -42,7 +43,4 @@ body{
   border: 1px black;
   padding: 1px;
   background: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
