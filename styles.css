@@ -28,14 +28,14 @@ body{
   display: flex;
   justify-content: center;
 }
-#ytb{
+&ytb{
   width: 760;
   height: 200;
   border: 2px solid purple;
   margin: 50px auto;
   
 }
-#tb{
+&tb{
   width:400;
   height: 200;
   margin:1px auto;
